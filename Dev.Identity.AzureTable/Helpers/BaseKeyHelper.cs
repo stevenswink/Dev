@@ -1,8 +1,7 @@
-﻿using System;
+﻿using Dev.Identity.AzureTable.Model;
 using System.Diagnostics;
 using System.Security.Cryptography;
 using System.Text;
-using Dev.Identity.AzureTable.Model;
 
 
 namespace Dev.Identity.AzureTable.Helpers

@@ -1,7 +1,6 @@
-﻿using System;
-using System.Runtime.Serialization;
-using Azure;
+﻿using Azure;
 using Azure.Data.Tables;
+using System.Runtime.Serialization;
 
 
 namespace Dev.Identity.AzureTable.Model

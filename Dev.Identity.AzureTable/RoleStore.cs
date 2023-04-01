@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Claims;
-using System.Threading;
-using System.Threading.Tasks;
-using Azure.Data.Tables;
+﻿using Azure.Data.Tables;
 using Dev.Data.Tables;
 using Dev.Identity.AzureTable.Model;
 using Microsoft.AspNetCore.Identity;
+using System.Security.Claims;
 
 namespace Dev.Identity.AzureTable
 {

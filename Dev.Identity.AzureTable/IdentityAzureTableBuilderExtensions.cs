@@ -1,5 +1,4 @@
-﻿using System;
-using Dev.Identity.AzureTable;
+﻿using Dev.Identity.AzureTable;
 using Dev.Identity.AzureTable.Helpers;
 using Dev.Identity.AzureTable.Model;
 using Microsoft.AspNetCore.Identity;

@@ -1,5 +1,4 @@
-﻿using System;
-using Azure;
+﻿using Azure;
 using Azure.Data.Tables;
 
 namespace Dev.Identity.AzureTable.Model

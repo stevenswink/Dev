@@ -1,16 +1,10 @@
-﻿using System;
-using System.Collections.Concurrent;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading;
-using System.Threading.Tasks;
-using Azure;
+﻿using Azure;
 using Azure.Data.Tables;
 using Azure.Data.Tables.Models;
 using Dev.Data.Tables;
-using Dev.Identity.AzureTable.Model;
 using Microsoft.AspNetCore.Identity;
+using System.Collections.Concurrent;
+using System.Diagnostics;
 
 namespace Dev.Identity.AzureTable
 {

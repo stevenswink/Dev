@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identity.AzureTable", "Identity.AzureTable\Identity.AzureTable.csproj", "{9E7A9CC8-3EB6-4123-BDB9-C6B380596F95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dev.Identity.AzureTable", "Identity.AzureTable\Dev.Identity.AzureTable.csproj", "{9E7A9CC8-3EB6-4123-BDB9-C6B380596F95}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data.Tables", "Data.Tables\Data.Tables.csproj", "{97A283BC-ADF9-4BEB-9301-50EFC75A2732}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dev.Data.Tables", "Data.Tables\Dev.Data.Tables.csproj", "{97A283BC-ADF9-4BEB-9301-50EFC75A2732}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
